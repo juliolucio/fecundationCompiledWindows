@@ -1,0 +1,14 @@
+radiusHandleCircles= 10
+origenx= 518
+origeny= 389
+corners0x= 5
+corners0y= 5
+corners1x= 1014
+corners1y= 9
+corners2x= 1022
+corners2y= 764
+corners3x= 11
+corners3y= 761
+brightness= 122
+contrast= 104
+numErodes= 0
